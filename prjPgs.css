@@ -78,7 +78,3 @@
       margin: 0em 0em 0em 0em;
       font: 13.3333px Arial;
   }
-  user agent stylesheet
-  input, textarea, select, button, meter, progress {
-      -webkit-writing-mode: horizontal-tb;
-  }
