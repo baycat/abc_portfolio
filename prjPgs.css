@@ -19,7 +19,8 @@
   }
   
   body {
-    color: #00205B
+    background-color: #00205B;
+    color: lightgray;
   }
   
   p {
